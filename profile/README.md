@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Autotech Sistemas</h1>
+  <img src="logo.png" alt="Autotech Sistemas" width="300"/>
   <p><strong>Tecnologia inteligente para o setor automotivo.</strong></p>
 </div>
 
