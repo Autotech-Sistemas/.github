@@ -1,6 +1,5 @@
 <div align="center">
   <img src="AutotechLogo.png" alt="Autotech Sistemas" width="300"/>
-  <p><strong>Tecnologia inteligente para o setor automotivo.</strong></p>
 </div>
 
 ---
